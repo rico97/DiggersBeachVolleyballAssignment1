@@ -15,7 +15,7 @@
 <div id="header">
 	<div id="banner"><a href="../index.html"><img src="../Images/Home.png" alt="Home" /></a>
 <h1>Diggers Beach Volleyball</h1>
-  <p><a href="../Sub-page/signup.html">Sign-up</a> | <a href="../Sub-page/playingguide.html">Playing guidelines</a></p></div>
+  <p><a href="../Sub-page/signup.html" class="sign">Sign-up now</a></p></div>
 <!-- TemplateBeginEditable name="EditRegion3" -->
   <nav id="mainnav">
       <ul>
@@ -36,7 +36,7 @@
   </div>
 <!-- TemplateEndEditable -->
 <div id="footer">
-    &copy; Copyright Diggers Beach Voolleyball
+    &copy; Copyright Diggers Beach Volleyball
     </div>
 </div>
 </body>
